@@ -23,4 +23,4 @@ do
     git commit --allow-empty -m "$c"
 done
 
-git push
+git push -f
