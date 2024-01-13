@@ -22,5 +22,6 @@ do
     # Generate empty commits 
     git commit --allow-empty -m "$c"
 done
-
-git push -f
+git fetch
+git pull --verbose --ff
+git push --verbose --force 
