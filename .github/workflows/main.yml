@@ -19,7 +19,7 @@ jobs:
         with:
           # Defines the range of number of commits
           # Change to your desierd lower and upper bound
-          lower-bound: 10
+          lower-bound: 100
           upper-bound: 10000
           # Change to your GitHub username
           user-name: NormTurtle
