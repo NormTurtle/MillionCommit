@@ -23,5 +23,5 @@ do
     git commit --allow-empty -m "$c"
 done
 git fetch
-git pull --verbose --ff
+git pull --verbose --rebase
 git push --verbose --force 
