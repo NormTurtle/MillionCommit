@@ -1,10 +1,18 @@
-# Let's Git Lit! 
+# Let's Destroy git
 
 ## What is it? 
-*Git Lit* defines the public GitHub Action used in the GitHub template [*It's Lit*](https://github.com/FredaXin/itslit). 
+just testing of what is limit of git. 
 
 ## How does it work? 
-*Git Lit* defines a [custom GitHub action](https://docs.github.com/en/actions/creating-actions/about-custom-actions#docker-container-actions) that runs in a Docker container. The GitHub action is used in a workflow that makes randomized number of daily git commits. 
+_somehow_....
+
+# what outcome.
+**don't try this at home** try on washroom only...  
+as github can ban your account/repo. one my repo has been **banned**... 
+so im stop doing this things
+
+
+------
 
 The main components are: 
 1. [`entrypoint.sh`](https://github.com/FredaXin/gitlit/blob/main/entrypoint.sh): The shell script that contains the action code.
